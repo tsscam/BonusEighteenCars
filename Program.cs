@@ -46,12 +46,12 @@ namespace Bonus18
             Console.WriteLine("Current Inventory: ");
             Console.WriteLine("*********************");
             Console.WriteLine("");
-            Console.Write( Car1.CarMake1);
-            Console.Write("\t");
-            Console.Write(Car1.CarModel1);
-            Console.Write("\t");
-            Console.Write(Car1.CarYear1);
-            Console.Write("\t");
+            Console.Write( Car1.CarMake1 + "\t");
+            
+            Console.Write(Car1.CarModel1 + "\t");
+            
+            Console.Write(Car1.CarYear1 + "\t");
+            
             Console.Write("$" + Car1.CarPrice1 + "\t" + "\t");
             Console.WriteLine("");
 
