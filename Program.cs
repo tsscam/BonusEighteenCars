@@ -56,7 +56,7 @@ namespace Bonus18
             Console.WriteLine("");
 
             //Pretty
-            Console.WriteLine("");
+            
             Console.WriteLine("*********************");
             //Salute
             Console.WriteLine("Thank you! ");
